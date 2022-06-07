@@ -1,6 +1,6 @@
 ## Olá, eu sou o Murilo Rodrigues!
 
-<div align="center">
+<div>
   <a href="https://github.com/murilorgalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilorgalvao&show_icons=true&theme=radical&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorgalvao&langs_count=7&theme=radical&layout=compact"/>
