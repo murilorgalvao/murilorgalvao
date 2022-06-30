@@ -17,11 +17,11 @@
   <a href="https://www.linkedin.com/in/murilorgalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2>Github Stats</h2>
+<h2>GitHub Stats</h2>
 <div>
   <a href="https://github.com/murilorgalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilorgalvao&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorgalvao&langs_count=7&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorgalvao&hide=typescript&langs_count=7&theme=radical&layout=compact"/>
 </div>
   
 <div>
