@@ -1,7 +1,7 @@
 <h1>👋 Hi, i'm Murilo Rodrigues</h1>
 <p>
 👀 I'm a technology enthusiast. A curious guy who loves to learn new things that help me solve problems intelligently. <br>
-🌱 Currently learning: HTML, CSS, JavaScript
+🌱 Currently learning: HTML, CSS, Java
 </p>
 
 <h2>🖥 Skills</h2>
